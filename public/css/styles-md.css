@@ -1,0 +1,62 @@
+/* Header */
+
+#logo {
+  width: 20%;
+}
+
+#search {
+  width: 45%;
+}
+
+#text {
+  width: 35%;
+}
+
+#ml-main-nav li {
+  margin: 0 10px;
+  font-size: 12px;
+}
+
+/* Main */
+
+.product {
+  width: 25%;
+}
+
+.text-price {
+  font-size: 14px;
+}
+
+.text-discount {
+  font-size: 12px;
+  padding-left: 30px;
+}
+
+.text-desc {
+  font-size: 12px;
+}
+
+/* Footer */
+
+#footer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#footer section {
+  width: 33%;
+}
+
+#footer h2 {
+  font-size: 14px;
+}
+
+/* Extras formularios */
+
+.form {
+  padding: 0 15%;
+}
+
+.button {
+  width: 100%;
+}

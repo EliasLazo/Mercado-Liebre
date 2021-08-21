@@ -1,0 +1,43 @@
+/* Header */
+
+#logo {
+  width: 33%;
+}
+
+#text {
+  width: 33%;
+}
+
+#search {
+  width: 33%;
+}
+
+.burger-menu {
+  display: none;
+}
+
+#ml-main-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+#ml-main-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#ml-main-nav li {
+  margin: 0 5px;
+  font-size: 10px;
+}
+
+/* Articulos */
+
+.product {
+  width: 50%;
+}
+
+.text-discount {
+  padding-left: 40px;
+}

@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.aling-self {
+  align-self: center;
+}
+
+.w-50 {
+  width: 50%;
+}
+.w-100 {
+  width: 100%;
+}
+
+.padding-16 {
+  padding: 16px;
+}
+
+.padding-8 {
+  padding: 8px;
+}
+
+.margin-bot-25 {
+  margin-bottom: 25px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+.no-wrap {
+  flex-wrap: nowrap;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-space-between {
+  justify-content: space-between;
+}
+
+.hide {
+  display: none;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.remove-margin-bot {
+  margin-bottom: 0;
+}
+
+.remove-margin-top {
+  margin-top: 0;
+}

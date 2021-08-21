@@ -1,0 +1,150 @@
+/* Header */
+
+.searchbar input,
+.searchbar button {
+  background-color: white;
+  border: none;
+  height: 30px;
+}
+.searchbar {
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#ml-main-nav ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#ml-main-nav a {
+  text-decoration: none;
+  color: #222222;
+}
+
+.burger-menu {
+  display: block;
+  font-size: 24px;
+  width: 44px;
+  height: 44px;
+  padding: 8px;
+  margin: 0 auto;
+  border-radius: 5px;
+  text-align: center;
+}
+
+/* Main */
+
+#main-content {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.product {
+  padding: 15px;
+}
+
+.product-wrapper {
+  border: 1px solid #ebebeb;
+  background-color: white;
+}
+
+.product-content {
+  border-top: 1px solid #ebebeb;
+  position: relative;
+  padding: 15px;
+}
+
+.product-delivery-icon {
+  font-size: 16px;
+  padding: 5px;
+  display: block;
+  width: 30px;
+  height: 30px;
+  border: 1px solid #39b54a;
+  border-radius: 50%;
+  position: absolute;
+  right: 20px;
+  top: -15px;
+}
+
+/* Formularios */
+
+.form-input .main-label {
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+.form-input input {
+  width: 100%;
+  font-size: 14px;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+}
+
+.form-input input[type="checkbox"],
+.form-input input[type="radio"] {
+  width: auto;
+  margin: 15px;
+}
+
+.error {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: red;
+  font-size: 10px;
+  position: absolute;
+  display: none;
+}
+
+.form-input input[type="file"] {
+  padding: 0px;
+}
+
+.button {
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: white;
+  margin: 10px 0px;
+}
+
+/* footer */
+
+footer i {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+footer i:hover {
+  color: #0022aa;
+}
+
+#separation-footer {
+  padding: 32px 22px;
+}
+
+/* Animation */
+
+.animation-b:hover {
+  background-color: #0022aa;
+}
+
+.animation-r:hover {
+  transform: rotateZ(-90deg);
+}
+
+.animation-bg:hover {
+  box-shadow: 0px 0px 10px rgb(100, 100, 100);
+}
+
+/* Extras */
+
+.banner {
+  display: block;
+  width: 100%;
+}
