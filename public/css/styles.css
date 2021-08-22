@@ -47,6 +47,7 @@
 .product-wrapper {
   border: 1px solid #ebebeb;
   background-color: white;
+  box-shadow: 0px 0px 10px rgb(100, 100, 100);
 }
 
 .product-content {
@@ -126,20 +127,6 @@ footer i:hover {
 
 #separation-footer {
   padding: 32px 22px;
-}
-
-/* Animation */
-
-.animation-b:hover {
-  background-color: #0022aa;
-}
-
-.animation-r:hover {
-  transform: rotateZ(-90deg);
-}
-
-.animation-bg:hover {
-  box-shadow: 0px 0px 10px rgb(100, 100, 100);
 }
 
 /* Extras */
